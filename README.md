@@ -1,4 +1,5 @@
-# Software-Design-and-Implementation-Projects
-*Acknowledgement: Scott Heggen*
+# UPC-bars
 
-This is a collection of the projects I have done in my Software Design and Implementation course.
+Python program that takes Universal Product Code (UPC) as an input from the user, and checks if the barcode is valid or not. 
+
+If valid, then draws that barcode using python turtle. 
